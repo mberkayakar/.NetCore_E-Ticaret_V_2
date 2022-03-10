@@ -12,7 +12,7 @@ namespace AKAR.DataAccess.Concrete
 {
 
 
-    public class MYSQLProductRepository : GenericRepository<Product, EFContext>, IProductRepository
+    public class ProductRepository : GenericRepository<Product, EFContext>, IProductRepository
     {
         public List<Product> GetPOPULARProduct()
         {

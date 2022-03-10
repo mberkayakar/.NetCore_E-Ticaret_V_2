@@ -1,0 +1,12 @@
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\bin\Debug\net5.0\AKAR.Business.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\bin\Debug\net5.0\AKAR.Business.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\bin\Debug\net5.0\AKAR.Business.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\obj\Debug\net5.0\refint\AKAR.Business.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Business\obj\Debug\net5.0\ref\AKAR.Business.dll

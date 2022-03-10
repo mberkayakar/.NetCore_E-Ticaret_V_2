@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jlQ23RFQkNWb1816YNwSVw59FauH5qQQS0Xt/CsCSuJYxZMWT8Ege+UoyeXLEBHZY8kEu7Ar2zGgQn4HggzxtA==",
+  "dgSpecHash": "NksOWFNXqdNO1pegTlB1DzpF+8QO3QqCGdLqPVijA+490BRyLiOmF+t0FvFeCZwt71QtXv+CRCTHleARLpdLtw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotenetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.23\\microsoft.entityframeworkcore.relational.3.1.23.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\3.1.23\\microsoft.entityframeworkcore.sqlite.3.1.23.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\3.1.23\\microsoft.entityframeworkcore.sqlite.core.3.1.23.nupkg.sha512",
+    "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.23\\microsoft.entityframeworkcore.tools.3.1.23.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.23\\microsoft.extensions.caching.abstractions.3.1.23.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.23\\microsoft.extensions.caching.memory.3.1.23.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.23\\microsoft.extensions.configuration.3.1.23.nupkg.sha512",

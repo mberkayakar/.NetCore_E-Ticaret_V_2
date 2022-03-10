@@ -1,3 +1,5 @@
+using AKAR.DataAccess.Abstract;
+using AKAR.DataAccess.Concrete;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -24,6 +26,9 @@ namespace AKAR.WebUI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+
+            services.AddScoped<IProductRepository, ProductRepository>(); 
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
