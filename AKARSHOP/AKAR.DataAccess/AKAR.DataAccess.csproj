@@ -13,6 +13,7 @@
 	<ItemGroup>
 	  <Folder Include="Concrete\ADO.NET\" />
 	  <Folder Include="Concrete\Dapper\" />
+	  <Folder Include="Migrations\" />
 	</ItemGroup> 
 	<ItemGroup>
 	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.23" />

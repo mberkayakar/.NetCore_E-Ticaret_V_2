@@ -37,13 +37,13 @@ namespace AKAR.Business.Concrete
         public List<Product> GetAll()
         {
             //İş kuralları Uygula
-            throw new NotImplementedException();
+            return _product.GetAll();
         }
 
         public Product GetById(int id)
         {
             //İş kuralları Uygula
-            throw new NotImplementedException();
+            return _product.GetById(id);
         }
 
         public void Update(Product item)

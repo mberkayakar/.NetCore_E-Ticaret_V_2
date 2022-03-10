@@ -56,11 +56,17 @@
 
 ### Proje İçeriğinde Kullanılan Teknolojiler  
 * N-Tier Architechture
+
 * İYZİCO Ödeme Entegrasyonu
+
 * Generic Repository
+
 * Repository Deising Pattern
+
 *  Dependency İnjection
+
 * Entity Framework Core
+
 * SQLite Database   
   
 

@@ -144,3 +144,5 @@ C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.
 C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.WebUI\bin\Debug\net5.0\AKAR.Entities.dll
 C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.WebUI\bin\Debug\net5.0\AKAR.DataAccess.pdb
 C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.WebUI\bin\Debug\net5.0\AKAR.Entities.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.WebUI\bin\Debug\net5.0\AKAR.Business.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.WebUI\bin\Debug\net5.0\AKAR.Business.pdb

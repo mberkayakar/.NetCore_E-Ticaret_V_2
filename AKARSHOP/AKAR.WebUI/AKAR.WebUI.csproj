@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AKAR.Business\AKAR.Business.csproj" />
     <ProjectReference Include="..\AKAR.DataAccess\AKAR.DataAccess.csproj" />
     <ProjectReference Include="..\AKAR.Entities\AKAR.Entities.csproj" />
   </ItemGroup>

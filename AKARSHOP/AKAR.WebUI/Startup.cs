@@ -2,6 +2,7 @@
 using AKAR.Business.Concrete;
 using AKAR.DataAccess.Abstract;
 using AKAR.DataAccess.Concrete;
+using AKAR.DataAccess.Concrete.EntityFrameworkCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -42,6 +43,7 @@ namespace AKAR.WebUI
         {
             if (env.IsDevelopment())
             {
+                SEEDDATAS.seed();
                 app.UseDeveloperExceptionPage();
             }
             else

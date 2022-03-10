@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AKAR.DataAccess.Migrations
 {
     [DbContext(typeof(EFContext))]
-    [Migration("20220310180211_mig1")]
+    [Migration("20220310210409_mig1")]
     partial class mig1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
