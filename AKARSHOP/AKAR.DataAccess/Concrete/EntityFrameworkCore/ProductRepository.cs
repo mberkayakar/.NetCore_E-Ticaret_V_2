@@ -12,52 +12,9 @@ namespace AKAR.DataAccess.Concrete
 {
 
 
-    public class MYSQLProductRepository : IProductRepository
+    public class MYSQLProductRepository : GenericRepository<Product, EFContext>, IProductRepository
     {
-        private EFContext db = new EFContext();
-
-        public void Add(Product product)
-        {
-            db.Products.Add(product);
-            db.SaveChanges();
-        }
-
-        public void Delete(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Delete(Product item)
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<Product> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<Product> GetAll(Expression<Func<Product, bool>> where = null, params Expression<Func<Product, object>>[] includeProperties)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Product GetbyId(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Product GetById(int id)
-        {
-            throw new NotImplementedException();
-        }
-
         public List<Product> GetPOPULARProduct()
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Update(Product product)
         {
             throw new NotImplementedException();
         }
