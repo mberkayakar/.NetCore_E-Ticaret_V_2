@@ -1,36 +1,82 @@
-### .NET_Core_MVC E-Ticaret Projesi V2.0
+<div align="center">
+<img src="https://images.ctfassets.net/23aumh6u8s0i/2yLTpLYPjn9DUjXgqHkN0f/03d54d78d435bc55ea6885a912cc9945/dotnet-platform.gif" align="center" style="width: 100%" />
+</div>  
+  
 
+# <div align="center">.NET_Core_MVC E-Ticaret Projesi V2.0
+</div>  
+  
 
-[TOCM]
+- Ntier-Arthitecture kullanılarak geliştirilmiş olan ve 1. versiyonuna göre dah farklı mekanizmaların eklendiği bir E-Ticaret platformu geliştirilmiştir.  
+  
 
-[TOC]
-
-- Admin ve kullanıcı panellerinin olduğu
-
-- İyzico Ödeme Api Entegrasyonuna Sahip 
-
-- Ürün düzenlemeleri için Editör kullanılmış olan bir e Ticaret Sistemidir
-
-
-<img style="float : left;  margin :5px " src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="100" height="100" />
-
-<img  style="float : left;  margin :5px " src="https://ardalis.com/static/6a1f9d4520a3828624e0e7c3aac87ba7/c5cb2/entity-framework-logo_2colors_square_rgb-591x360.png" width="200" height="100" float  = left />
-
-
-<img  style="border-radius: 50%;" src="https://play-lh.googleusercontent.com/FCWGwCX-lhT1_SH55GFrjtXkMEvRggC1m-9iM8vP9Tn0WEFn2qClV1_axfAWxmJEkLY" width="100" height="100" float  = left />
-
-
-### Kullanılan Teknolojiler :
-
-<ul>
-	<li> Generic Repositroy </li>
-	<li> Repository Deising Pattern  </li>
-	<li> Core Entity Framework  </li>
-	<li> N-Tier Arthitecture  </li>
-	<li> Depency İnjection </li>
-
-
-
-</ul>
+<br/>  
 
  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+  
+
+
+</td></tr></table>  
+
+<br/>  
+
+ 
+<br/>  
+
+
+## Github Stats  
+
+
+### Proje İçeriğinde Kullanılan Teknolojiler  
+* N-Tier Architechture
+* İYZİCO Ödeme Entegrasyonu
+* Generic Repository
+* Repository Deising Pattern
+*  Dependency İnjection
+* Entity Framework Core
+* SQLite Database   
+  
+
+<br/>  
+
+ 
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

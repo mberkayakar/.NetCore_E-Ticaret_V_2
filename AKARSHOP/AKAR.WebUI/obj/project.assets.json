@@ -2188,6 +2188,20 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "AKAR.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "AKAR.DataAccess": "1.0.0",
+          "AKAR.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AKAR.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AKAR.Business.dll": {}
+        }
+      },
       "AKAR.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -7202,6 +7216,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "AKAR.Business/1.0.0": {
+      "type": "project",
+      "path": "../AKAR.Business/AKAR.Business.csproj",
+      "msbuildProject": "../AKAR.Business/AKAR.Business.csproj"
+    },
     "AKAR.DataAccess/1.0.0": {
       "type": "project",
       "path": "../AKAR.DataAccess/AKAR.DataAccess.csproj",
@@ -7215,6 +7234,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "AKAR.Business >= 1.0.0",
       "AKAR.DataAccess >= 1.0.0",
       "AKAR.Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.23",
@@ -7254,6 +7274,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotenetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.Business\\AKAR.Business.csproj": {
+              "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotenetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.Business\\AKAR.Business.csproj"
+            },
             "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotenetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj": {
               "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotenetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj"
             },

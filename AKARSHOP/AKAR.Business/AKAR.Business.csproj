@@ -1,7 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AKAR.DataAccess\AKAR.DataAccess.csproj" />
+    <ProjectReference Include="..\AKAR.Entities\AKAR.Entities.csproj" />
+  </ItemGroup>
 
 </Project>
