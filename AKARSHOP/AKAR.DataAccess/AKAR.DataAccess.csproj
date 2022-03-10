@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+
+	<!--item group içerisinde elle bu şekilde belirtilir. Aynı şekilde visula studio içerisinde
+	yazılmak istenirse de classlib üzerinde add reference diyerek gerekli katmanı ekleyebiliriz.--> 
+	<ItemGroup>
+		<ProjectReference Include="..\AKAR.Entities\AKAR.Entities.csproj" />
+	</ItemGroup> 
+	<ItemGroup>
+	  <Folder Include="Concrete\ADO.NET\" />
+	  <Folder Include="Concrete\Dapper\" />
+	</ItemGroup> 
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.23">
+	    <PrivateAssets>all</PrivateAssets>
+	    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.23" />
+	</ItemGroup>
+
+</Project>
