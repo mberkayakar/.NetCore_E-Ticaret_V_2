@@ -10,3 +10,15 @@ C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.
 C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\refint\AKAR.Entities.dll
 C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.pdb
 C:\Users\Muhammed Berkay AKAR\Desktop\DotenetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\ref\AKAR.Entities.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\bin\Debug\net5.0\AKAR.Entities.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\bin\Debug\net5.0\AKAR.Entities.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\bin\Debug\net5.0\AKAR.Entities.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\refint\AKAR.Entities.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\ref\AKAR.Entities.dll

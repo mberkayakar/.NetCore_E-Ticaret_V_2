@@ -30,8 +30,16 @@ namespace AKAR.Business.Concrete
 
         public void Delete(Product item)
         {
-            //İş kuralları Uygula
-            _product.Delete(item);
+            if (item.ProductId != null && item.CategoryId != null)
+            {
+                _product.Delete(item);
+
+            }
+            else
+            {
+                return;
+
+            }
         }
 
         public List<Product> GetAll()

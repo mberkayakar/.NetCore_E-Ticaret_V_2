@@ -1,37 +1,31 @@
 ﻿@using AKAR.WebUI.ViewModels
 @model ProductViewModel
-
+ 
 @{
     ViewData["Title"] = "Index";
-    Layout = "~/Pages/Shared/_Layout.cshtml";
+    Layout = "~/Views/Shared/Layout/_anasayfa_layout.cshtml";
 }
 
-<h1>Ana Sayfaya Hoşgeldiniz :</h1>
 
 
-<br />
-<h2> ÜRÜNLER :</h2>
-<br />
-<br />
+@if(@Model.Products.Count==0)
+{
+    @await Html.PartialAsync("~/Views/Shared/Layout/PartialView/_hicbirurunbulunamadi.cshtml")
+}
 
+else
+{
+     
+     
 <div class="row">
-    <div class="col-3"> KATEGORİLER BÖLÜMÜ</div>
-
-    <div class="col-3">
+     
         @foreach (var item in @Model.Products)
-        {
-        <div class="card" style="width: 18rem;">
-        <img class="card-img-top" src="@item.ImageURL" alt="Card image cap">
-        <div class="card-body">
-         <h5 class="card-title">@item.Name</h5>
-         <p class="card-text"> @item.Description</p><br>
-         <p class="card-text"> @item.Price</p>
-
-         <a href="#" class="btn btn-primary">Daha Fazlası için</a>
-        </div>
-        </div>
-       
+        {  
+            <div class="col-md-3">
+            @await Html.PartialAsync("~/Views/Shared/Layout/PartialView/_urunler_card.cshtml",item)
+            </div>
         }
 
-    </div>
 </div>
+
+}

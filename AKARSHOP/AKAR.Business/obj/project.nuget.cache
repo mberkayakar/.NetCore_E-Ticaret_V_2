@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r1TEU3xxGf4U+t5UVddhNIJ6gMasG88hucquVfqtHFX9oyhZbPHucfBjcpjdmdUPnC6gXihVQ1GxXL0B6OPkVQ==",
+  "dgSpecHash": "UNOEjvY+75cLejydGTWWYtwNT77FK3fDjmqCVKfxVQZiS1vCh/sKRkdjxnA8+QuNNMUM8a8HHxhtMd4OEBidxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotenetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.Business\\AKAR.Business.csproj",
+  "projectFilePath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.Business\\AKAR.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

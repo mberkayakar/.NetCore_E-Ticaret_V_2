@@ -18,10 +18,21 @@ namespace AKAR.WebUI.Controllers
         public IActionResult Index()
         {
 
-            var producviewmodel = new ProductViewModel()
-            { Products = _productRepository.GetAll() };
-
+            ProductViewModel producviewmodel = new ProductViewModel()
+            { 
+                Products = _productRepository.GetAll()
+            
+            };
+            
             return View(producviewmodel);
+        }
+
+        public IActionResult Ekleme()
+        {
+
+            
+
+            return View();
         }
     }
 }

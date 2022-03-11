@@ -13,7 +13,6 @@ namespace AKAR.DataAccess.Abstract
      Bu şekilde intefaceler ile birlikte artık sınıfa özgü olup diğer sınıflarda olmayan methodlarıda bu aşamada tanımlayabilmekteyiz*/
     public interface IProductRepository:IGenericRepository<Product>
     {
-   
         /*Yukarıdaki bahsedilen açıklamalar burada gerçekleşecektir. */
         List<Product> GetPOPULARProduct();
     }

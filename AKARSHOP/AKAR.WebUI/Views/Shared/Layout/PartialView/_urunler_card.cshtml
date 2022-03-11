@@ -1,0 +1,16 @@
+﻿@using AKAR.Entities
+@model Product
+ 
+
+<div class="card" style="width: 18rem">
+    <img class="card-img-top" src="@Model.ImageURL" alt="Card image cap">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text"> @Model.Description</p><br>
+        <p class="card-text"> @Model.Price</p>
+    </div>
+    <div class=card-footer">
+        <a href="#" class="btn btn-primary">Daha Fazlası için (@Model.ProductId)</a>
+
+        </div>
+</div>
