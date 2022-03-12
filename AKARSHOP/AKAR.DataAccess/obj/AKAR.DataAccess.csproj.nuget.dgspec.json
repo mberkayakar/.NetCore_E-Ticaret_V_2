@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj": {}
+    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj": {
+    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj",
         "projectName": "AKAR.DataAccess",
-        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.DataAccess\\AKAR.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Muhammed Berkay AKAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.Entities\\AKAR.Entities.csproj": {
-                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.Entities\\AKAR.Entities.csproj"
+              "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.Entities\\AKAR.Entities.csproj": {
+                "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.Entities\\AKAR.Entities.csproj"
               }
             }
           }
@@ -84,25 +80,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.Entities\\AKAR.Entities.csproj": {
+    "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.Entities\\AKAR.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.Entities\\AKAR.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.Entities\\AKAR.Entities.csproj",
         "projectName": "AKAR.Entities",
-        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.Entities\\AKAR.Entities.csproj",
+        "projectPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.Entities\\AKAR.Entities.csproj",
         "packagesPath": "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\DotnetCore E Ticaret V 2.0\\AKARSHOP\\AKAR.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Muhammed Berkay AKAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

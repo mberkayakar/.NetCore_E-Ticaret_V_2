@@ -11,53 +11,61 @@ using System.Threading.Tasks;
 namespace AKAR.Business.Concrete
 {
 
-    
-    public class ProductManager : IProductServices
+
+    public class ProductManager : GenericManager<Product>, IProductServices
     {
-        private IProductRepository _product ;
 
-        public ProductManager(IProductRepository product)
+        public ProductManager(IProductRepository _item) : base(_item)
         {
-            _product = product;
+
+
         }
 
 
-        public void Add(Product item)
-        {
-            //İş kuralları Uygula
-             _product.Add(item);
-        }
 
-        public void Delete(Product item)
-        {
-            if (item.ProductId != null && item.CategoryId != null)
-            {
-                _product.Delete(item);
 
-            }
-            else
-            {
-                return;
+        #region Eski Kodlar (Busines Generic Versiyona çekilmeden önceki hali)
 
-            }
-        }
+        //private IProductRepository _product;
+        //public ProductManager(IGenericRepository<Product> product)
+        //{
+        //    _product = product;
+        //}
 
-        public List<Product> GetAll()
-        {
-            //İş kuralları Uygula
-            return _product.GetAll();
-        }
 
-        public Product GetById(int id)
-        {
-            //İş kuralları Uygula
-            return _product.GetById(id);
-        }
+        //public void Add(Product item)
+        //{
+        //    //İş kuralları Uygula
+        //     _product.Add(item);
+        //}
 
-        public void Update(Product item)
-        {
-            //İş kuralları Uygula
-            throw new NotImplementedException();
-        }
+        //public void Delete(Product item)
+        //{
+
+        //    //iş Kuralları 
+        //    _product.Delete(item);
+
+        //}
+
+        //public List<Product> GetAll()
+        //{
+        //    //İş kuralları Uygula
+        //    return _product.GetAll();
+        //}
+
+        //public Product GetById(int id)
+        //{
+        //    //İş kuralları Uygula
+        //    return _product.GetById(id);
+        //}
+
+        //public void Update(Product item)
+        //{
+        //    //İş kuralları Uygula
+        //    throw new NotImplementedException();
+        //}
+
+        #endregion
+
     }
 }

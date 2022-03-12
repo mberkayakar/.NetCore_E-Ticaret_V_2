@@ -34,3 +34,21 @@ C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.D
 C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.pdb
 C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.genruntimeconfig.cache
 C:\Users\Muhammed Berkay AKAR\Desktop\DotnetCore E Ticaret V 2.0\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\ref\AKAR.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.DataAccess.deps.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.DataAccess.runtimeconfig.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.DataAccess.runtimeconfig.dev.json
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.DataAccess.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.Entities.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.Entities.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.AssemblyInfo.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.csproj.CopyComplete
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\refint\AKAR.DataAccess.dll
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.pdb
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.genruntimeconfig.cache
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\ref\AKAR.DataAccess.dll
