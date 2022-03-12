@@ -1,15 +1,28 @@
-﻿ 
-
-
-@using AKAR.Entities
+﻿
 @model Product
- 
 
-<div class="card" style="width: 18rem">
+
+@{
+    string aciklama = "";
+    if (Model.Description.Length > 50)
+    {
+        aciklama = Model.Description.Substring(0, 50);
+    }
+    else
+    {
+        aciklama = Model.Description;
+    }
+
+
+}
+
+
+<div class="card" style="width: 100%" >
     <img class="card-img-top" src="@Model.ImageURL" alt="Card image cap">
     <div class="card-body">
         <h5 class="card-title">@Model.Name</h5>
-        <p class="card-text"> @Model.Description</p><br>
+        <p class="card-text">
+            @aciklama</p><br>
         <p class="card-text"> @Model.Price</p>
         <br />
         <a asp-controller="Product" asp-action="Details" asp-route-id="@Model.ProductId" class="btn btn-primary btn-sm">Details</a>

@@ -26,8 +26,22 @@ using AKAR.WebUI;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\Views\_ViewImports.cshtml"
+using AKAR.Entities;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\Views\_ViewImports.cshtml"
+using AKAR.WebUI.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"41c11ef1e289d8366dce7767b79ebc1343050179", @"/Views/Shared/Layout/PartialView/_hicbirurunbulunamadi.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b7793645a5cb5a413a422fb70f63091f1766849c", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4215d18f47cad80b9bf99306b923ef8572b6d357", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Shared_Layout_PartialView__hicbirurunbulunamadi : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable

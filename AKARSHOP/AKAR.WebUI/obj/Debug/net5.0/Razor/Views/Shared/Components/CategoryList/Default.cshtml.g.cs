@@ -27,6 +27,13 @@ using AKAR.WebUI;
 #line hidden
 #nullable disable
 #nullable restore
+#line 4 "C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\Views\_ViewImports.cshtml"
+using AKAR.WebUI.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 1 "C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\Views\Shared\Components\CategoryList\Default.cshtml"
 using AKAR.Entities;
 
@@ -34,7 +41,7 @@ using AKAR.Entities;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e1c57385f434ed7990205ceeb328eebe79cfdcc6", @"/Views/Shared/Components/CategoryList/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b7793645a5cb5a413a422fb70f63091f1766849c", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4215d18f47cad80b9bf99306b923ef8572b6d357", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Shared_Components_CategoryList_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<List<Category>>
     #nullable disable
@@ -68,7 +75,7 @@ using AKAR.Entities;
         {
             WriteLiteral("\r\n");
             WriteLiteral("\r\n <div class=\"list-group\">\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1c57385f434ed7990205ceeb328eebe79cfdcc64610", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1c57385f434ed7990205ceeb328eebe79cfdcc64823", async() => {
                 WriteLiteral("Tüm Kategoriler");
             }
             );
@@ -96,7 +103,7 @@ using AKAR.Entities;
 #line hidden
 #nullable disable
             WriteLiteral("        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1c57385f434ed7990205ceeb328eebe79cfdcc66364", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e1c57385f434ed7990205ceeb328eebe79cfdcc66577", async() => {
                 WriteLiteral("\r\n            ");
 #nullable restore
 #line 14 "C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\Views\Shared\Components\CategoryList\Default.cshtml"

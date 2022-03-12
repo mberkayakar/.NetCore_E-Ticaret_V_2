@@ -26,8 +26,22 @@ using AKAR.WebUI;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\Views\_ViewImports.cshtml"
+using AKAR.Entities;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\Views\_ViewImports.cshtml"
+using AKAR.WebUI.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"efcf6a7c315fd1c09a7ce85b336d0f65dc0d9f7f", @"/Views/Shared/Layout/_anasayfa_layout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b7793645a5cb5a413a422fb70f63091f1766849c", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4215d18f47cad80b9bf99306b923ef8572b6d357", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Shared_Layout__anasayfa_layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
@@ -58,7 +72,7 @@ using AKAR.WebUI;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "efcf6a7c315fd1c09a7ce85b336d0f65dc0d9f7f3468", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "efcf6a7c315fd1c09a7ce85b336d0f65dc0d9f7f3890", async() => {
                 WriteLiteral(@"
     <meta charset=""UTF-8"">
     <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
@@ -77,7 +91,7 @@ using AKAR.WebUI;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "efcf6a7c315fd1c09a7ce85b336d0f65dc0d9f7f4797", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "efcf6a7c315fd1c09a7ce85b336d0f65dc0d9f7f5219", async() => {
                 WriteLiteral("    \r\n    <main>   \r\n      ");
 #nullable restore
 #line 13 "C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\Views\Shared\Layout\_anasayfa_layout.cshtml"

@@ -15,10 +15,17 @@ namespace AKAR.Business.Concrete
     public class ProductManager : GenericManager<Product>, IProductServices
     {
 
+
+        IProductRepository _repo;
         public ProductManager(IProductRepository _item) : base(_item)
         {
+            _repo = _item;
 
+        }
 
+        public Product GetProductDetails(int id)
+        {
+            return _repo.GetProductDetails(id);
         }
 
 

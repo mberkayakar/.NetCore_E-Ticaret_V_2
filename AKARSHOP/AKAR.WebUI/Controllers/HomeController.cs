@@ -29,9 +29,6 @@ namespace AKAR.WebUI.Controllers
 
         public IActionResult Ekleme()
         {
-
-            
-
             return View();
         }
     }

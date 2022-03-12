@@ -1,6 +1,7 @@
 ﻿using AKAR.DataAccess.Abstract;
 using AKAR.DataAccess.Concrete.EntityFrameworkCore;
 using AKAR.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +18,18 @@ namespace AKAR.DataAccess.Concrete
         public List<Product> GetPOPULARProduct()
         {
             throw new NotImplementedException();
+        }
+
+        public Product GetProductDetails(int id)
+        {
+            using (var contex = new EFContext())
+            {
+                return contex.Products.Where(p => p.ProductId == id).
+                    Include(p => p.ProductCategory).
+                    ThenInclude(p => p.Category).
+                    FirstOrDefault();
+            }
+
         }
     }
 }

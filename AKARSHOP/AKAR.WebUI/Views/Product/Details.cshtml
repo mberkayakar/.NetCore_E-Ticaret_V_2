@@ -1,9 +1,41 @@
 ﻿
+
+@model ProductDetailModel
+
+
 @{
     ViewData["Title"] = "Details";
     Layout = "~/Views/Shared/Layout/_anasayfa_layout.cshtml";
 }
+ 
+ <div class="row">
+     <div class="col-md-6 col-12 p-1"  style="text-align:center">
+         <img src=@Model.Product.ImageURL />
+     </div>
+     <div class="col-md-6 col-12 p-1" >
+         <h3 style="text-align:center"> @Model.Product.Name.ToUpper() </h3>
+         <br />
+         <p>@Model.Product.Price</p>
+         <br />
+         <p>
+             @foreach (var item in @Model.Categories)
+            {
+                @item.CategoryName;
+            }</p>
+        <br />
+         <div class="col-12 ">
+         <button type="button" class="btn btn-primary btn-lg btn-block">HEMEN AL</button>
+         </div>
+         <br />
+         <div class="col-12 ">
+         <button type="button" class="btn btn-success btn-lg btn-block">SEPETE EKLE</button>
+          </div>
 
-<h1>ÜRÜN DETAYLARI SAYFASINA HOŞ GELDİNİZ </h1>
-<h2>BU SAYFADA ÜRÜNE AİT SEÇTİĞİNİZ BİLGİLERİN DETAYLARI MEVCUT BULUNMAKTADIR .</h2>
-
+     </div>
+ </div>
+ 
+ <div class="row">
+         <p style="text-align:justify">@Model.Product.Description</p>
+     
+ </div>
+ 

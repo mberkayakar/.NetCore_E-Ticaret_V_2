@@ -23,9 +23,11 @@ namespace AKAR.DataAccess.Concrete.EntityFrameworkCore
             if (context.Products.Count() == 0)
             {
                 context.Products.AddRange(Products);
+                context.AddRange(productCategories);
 
                 context.SaveChanges();
             }
+ 
         }
 
         #region KATEGORİ BİLGİLERİ :
@@ -61,6 +63,23 @@ namespace AKAR.DataAccess.Concrete.EntityFrameworkCore
 
         #endregion
 
+        #region ÜRÜN_KATEGORİ_EŞLEŞMESİ
 
+        private static ProductCategory[] productCategories =
+        {
+            new ProductCategory(){ Product = Products[0] , Category = Categories[0] },
+            new ProductCategory(){ Product = Products[1] , Category = Categories[0] },
+            new ProductCategory(){ Product = Products[2] , Category = Categories[0] },
+            new ProductCategory(){ Product = Products[2] , Category = Categories[1] },
+            new ProductCategory(){ Product = Products[2] , Category = Categories[2] },
+            new ProductCategory(){ Product = Products[3] , Category = Categories[2] },
+            new ProductCategory(){ Product = Products[3] , Category = Categories[0] },
+            new ProductCategory(){ Product = Products[3] , Category = Categories[1] }
+
+        };
+
+
+
+        #endregion
     }
 }

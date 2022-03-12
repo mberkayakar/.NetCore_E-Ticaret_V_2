@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 namespace AKAR.Business.Abstract
 {
     public interface IProductServices : IGenericService<Product>
-    { 
-
+    {
+        Product GetProductDetails(int id);
 
     }
 }
