@@ -32,8 +32,16 @@ namespace AKAR.WebUI
 
 
             /* Depency İnjection */
+
+
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<IProductServices, ProductManager>();
+
+
+            services.AddScoped<ICategoryService, CategoryManager>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+
+
 
 
         }

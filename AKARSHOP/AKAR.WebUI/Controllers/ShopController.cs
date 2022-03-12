@@ -2,7 +2,7 @@
 
 namespace AKAR.WebUI.Controllers
 {
-    public class ShopController1 : Controller
+    public class ShopController : Controller
     {
         public IActionResult Index()
         {

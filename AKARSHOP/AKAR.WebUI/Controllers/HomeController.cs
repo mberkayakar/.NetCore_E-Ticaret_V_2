@@ -8,10 +8,10 @@ namespace AKAR.WebUI.Controllers
 {
     public class HomeController : Controller
     {
-        private IProductServices _productRepository;
+        private IProductServices _IProductServices;
         public HomeController(IProductServices productRepository)
         {
-            _productRepository = productRepository;
+            _IProductServices = productRepository;
         }
 
 
@@ -20,10 +20,10 @@ namespace AKAR.WebUI.Controllers
 
             ProductViewModel producviewmodel = new ProductViewModel()
             { 
-                Products = _productRepository.GetAll()
-            
+                Products = _IProductServices.GetAll()
             };
-            
+
+
             return View(producviewmodel);
         }
 
