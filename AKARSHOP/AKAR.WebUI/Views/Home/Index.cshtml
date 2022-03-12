@@ -18,19 +18,10 @@ else
      
      
 <div class="row">
-    <div class"col-md-3>
-       <h3> Kategori Bilgileri Listesi </h3>
-        <ul>
-             @await Html.PartialAsync("~/Views/Shared/Layout/PartialView/_urunler_card.cshtml")
-        </ul>
-        <div class="col-md-9"> </div>
-    </div>
-
-     
         @foreach (var item in @Model.Products)
         {  
             <div class="col-md-3">
-            @await Html.PartialAsync("~/Views/Shared/Layout/PartialView/_urunler_card.cshtml",item)
+                @await Html.PartialAsync("~/Views/Shared/Layout/PartialView/_urunler_card.cshtml",item)
             </div>
         }
 

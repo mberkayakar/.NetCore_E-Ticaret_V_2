@@ -12,9 +12,7 @@ namespace AKAR.DataAccess.Concrete.EntityFrameworkCore
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // dur aq defaıultta startup seçili ya bi saniye 
-
-            // çözdüm sanırım 
+           
             optionsBuilder.UseSqlite("Data Source=AKARDB");
         }
 

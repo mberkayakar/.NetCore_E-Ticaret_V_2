@@ -452,4 +452,4 @@ C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\obj\Debug\net5.0\AKAR.WebUI.pdb
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\obj\Debug\net5.0\AKAR.WebUI.genruntimeconfig.cache
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\obj\Debug\net5.0\ref\AKAR.WebUI.dll
-C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Layout\PartialView\_categories_list.cshtml.g.cs
+C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs

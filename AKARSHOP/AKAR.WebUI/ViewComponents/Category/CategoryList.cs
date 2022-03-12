@@ -1,16 +1,15 @@
 ﻿using AKAR.Business.Abstract;
 using Microsoft.AspNetCore.Mvc;
 
-namespace AKAR.WebUI.ViewCompanents
+namespace AKAR.WebUI.ViewComponents.Category
 {
-    public class CategoryViewComponent:ViewComponent
+    public class CategoryList : ViewComponent
     {
-
         private ICategoryService _categoryService;
-        public CategoryViewComponent(ICategoryService categoryService)
+        public CategoryList(ICategoryService categoryService)
         {
             this._categoryService = categoryService;
-        }
+        }// son yaptıgımdan sonra burası çalışmay başladı da layout u mu ne bulamıyo çözemedim ama db ye istek atıyo
         public IViewComponentResult Invoke()
         {
             if (RouteData.Values["action"].ToString() == "list")

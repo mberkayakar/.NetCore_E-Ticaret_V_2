@@ -1,4 +1,6 @@
-﻿@model List<Category>
+﻿@using AKAR.Entities
+
+@model List<Category>
 
  <div class="list-group">
     <a asp-controller="Product" asp-action="List" class="list-group-item list-group-item-action">Tüm Kategoriler</a>
@@ -9,7 +11,7 @@
         asp-action="List" 
         asp-route-id="@category.CategoryId" 
         class="list-group-item list-group-item-action @(ViewBag.SelectedCategory == category.CategoryId.ToString()?"active":"")">
-            @category.Name
+            @category.CategoryName
         </a>
     }
 </div>   
