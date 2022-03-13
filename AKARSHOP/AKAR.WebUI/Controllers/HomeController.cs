@@ -8,7 +8,7 @@ namespace AKAR.WebUI.Controllers
 {
     public class HomeController : Controller
     {
-        private IProductServices _IProductServices;
+        private IProductServices _IProductServices; // _productRepository olarak yaz
         public HomeController(IProductServices productRepository)
         {
             _IProductServices = productRepository;
@@ -27,7 +27,7 @@ namespace AKAR.WebUI.Controllers
             return View(producviewmodel);
         }
 
-        public IActionResult Ekleme()
+        public IActionResult Ekleme() // ingilizce olarak kullan
         {
             return View();
         }

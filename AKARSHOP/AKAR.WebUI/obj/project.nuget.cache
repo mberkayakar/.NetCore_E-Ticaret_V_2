@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TMJCHn+rnRa/KZ0sScC9pc5NlK0uTaiXX9UVE4sQYX9QUyZ8ye5CQeAZLb+ktmwzRC2cur1th29Bg2gKUgRTog==",
+  "dgSpecHash": "4I09TPvHVHx6TGuTP3SVPtgGSQ5GDLMDL9VA1mfY+NzWyBNs68A3ZMrs+Q5EJi4ruoiqZLIHcDqIKVUoP6BKSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammed Berkay AKAR\\Desktop\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.WebUI\\AKAR.WebUI.csproj",
+  "projectFilePath": "D:\\GİTHUB REPOSİTORY\\.NetCore_E-Ticaret_V_2\\AKARSHOP\\AKAR.WebUI\\AKAR.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Muhammed Berkay AKAR\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

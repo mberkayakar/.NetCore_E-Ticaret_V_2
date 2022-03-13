@@ -49,3 +49,20 @@ C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Busin
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\refint\AKAR.Business.dll
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.pdb
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\ref\AKAR.Business.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\bin\Debug\net5.0\AKAR.Business.deps.json
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\bin\Debug\net5.0\AKAR.Business.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\bin\Debug\net5.0\AKAR.Business.pdb
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\bin\Debug\net5.0\AKAR.DataAccess.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\bin\Debug\net5.0\AKAR.Entities.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\bin\Debug\net5.0\AKAR.DataAccess.pdb
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\bin\Debug\net5.0\AKAR.Entities.pdb
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.csproj.AssemblyReference.cache
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.AssemblyInfoInputs.cache
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.AssemblyInfo.cs
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.csproj.CoreCompileInputs.cache
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.csproj.CopyComplete
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\refint\AKAR.Business.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\AKAR.Business.pdb
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Business\obj\Debug\net5.0\ref\AKAR.Business.dll
