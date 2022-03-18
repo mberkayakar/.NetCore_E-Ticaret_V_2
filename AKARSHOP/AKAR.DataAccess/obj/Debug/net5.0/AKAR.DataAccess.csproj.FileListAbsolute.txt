@@ -52,3 +52,21 @@ C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataA
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.pdb
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.genruntimeconfig.cache
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\ref\AKAR.DataAccess.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.DataAccess.deps.json
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.DataAccess.runtimeconfig.json
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.DataAccess.runtimeconfig.dev.json
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.DataAccess.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.DataAccess.pdb
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.Entities.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\bin\Debug\net5.0\AKAR.Entities.pdb
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.csproj.AssemblyReference.cache
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.AssemblyInfoInputs.cache
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.AssemblyInfo.cs
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.csproj.CoreCompileInputs.cache
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.csproj.CopyComplete
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\refint\AKAR.DataAccess.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.pdb
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\AKAR.DataAccess.genruntimeconfig.cache
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.DataAccess\obj\Debug\net5.0\ref\AKAR.DataAccess.dll

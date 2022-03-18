@@ -15,15 +15,13 @@ namespace AKAR.WebUI.Controllers
         }
 
 
-        public IActionResult Index()
+        public IActionResult Index(string category)
         {
 
             ProductViewModel producviewmodel = new ProductViewModel()
             { 
-                Products = _IProductServices.GetAll()
+                Products = _IProductServices.GetProductByCategory(category)
             };
-
-
             return View(producviewmodel);
         }
 

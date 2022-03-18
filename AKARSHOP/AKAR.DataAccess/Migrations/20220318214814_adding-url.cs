@@ -2,7 +2,7 @@
 
 namespace AKAR.DataAccess.Migrations
 {
-    public partial class mig1 : Migration
+    public partial class addingurl : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -12,7 +12,8 @@ namespace AKAR.DataAccess.Migrations
                 {
                     CategoryId = table.Column<int>(nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    CategoryName = table.Column<string>(nullable: true)
+                    CategoryName = table.Column<string>(nullable: true),
+                    URL = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
                 {

@@ -20,5 +20,9 @@ namespace AKAR.DataAccess.Abstract
         // Her repository nin kendisine özel bir fonksiyonunun olabilmesi için IProductRepository içerisinde getoprduct details ile inclue kullanarak joinleme alabilmek için
         // interface imzası bu şekilde tanımlanmıştır.
         Product GetProductDetails(int id);
+
+
+        // kategory e göre ürün getirme işlemi
+        List<Product> GetProductByCategory(string category);
     }
 }

@@ -10,6 +10,7 @@ namespace AKAR.Entities
     {
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
+        public string URL{ get; set; }
         public List<ProductCategory> ProductCategory { get; set; }
 
 

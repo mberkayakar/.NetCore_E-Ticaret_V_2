@@ -20,6 +20,23 @@ namespace AKAR.DataAccess.Concrete
             throw new NotImplementedException();
         }
 
+        public List<Product> GetProductByCategory(string category)
+        {
+            using (var context = new EFContext())
+            {
+                var product = context.Products.AsQueryable();
+
+                if (!string.IsNullOrEmpty(category))
+                {
+                    product = product.Include(i => i.ProductCategory).
+                        ThenInclude(i => i.Category).
+                        Where(i=>  i.ProductCategory.Any(a=> a.Category.URL.ToLower() == category.ToLower()));
+                }
+
+                return product.ToList();
+            }
+        }
+
         public Product GetProductDetails(int id)
         {
             using (var contex = new EFContext())

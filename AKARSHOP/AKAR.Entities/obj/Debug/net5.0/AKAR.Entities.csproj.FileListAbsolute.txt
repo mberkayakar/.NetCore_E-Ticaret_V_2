@@ -34,3 +34,15 @@ C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entit
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\refint\AKAR.Entities.dll
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.pdb
 C:\Users\Muhammed Berkay AKAR\Desktop\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\ref\AKAR.Entities.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\bin\Debug\net5.0\AKAR.Entities.deps.json
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\bin\Debug\net5.0\AKAR.Entities.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\bin\Debug\net5.0\AKAR.Entities.pdb
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.csproj.AssemblyReference.cache
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.AssemblyInfoInputs.cache
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.AssemblyInfo.cs
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.csproj.CoreCompileInputs.cache
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\refint\AKAR.Entities.dll
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\AKAR.Entities.pdb
+D:\GİTHUB REPOSİTORY\.NetCore_E-Ticaret_V_2\AKARSHOP\AKAR.Entities\obj\Debug\net5.0\ref\AKAR.Entities.dll

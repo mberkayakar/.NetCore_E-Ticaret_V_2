@@ -9,11 +9,11 @@ namespace AKAR.WebUI.ViewComponents.Category
         public CategoryList(ICategoryService categoryService)
         {
             this._categoryService = categoryService;
-        }// son yaptıgımdan sonra burası çalışmay başladı da layout u mu ne bulamıyo çözemedim ama db ye istek atıyo
+        } 
         public IViewComponentResult Invoke()
         {
-            if (RouteData.Values["action"].ToString() == "list")
-                ViewBag.SelectedCategory = RouteData?.Values["id"];
+            if (RouteData.Values["category"] != null)
+                ViewBag.SelectedCategory = RouteData?.Values["category"];
 
             return View(_categoryService.GetAll());
         }

@@ -72,6 +72,16 @@ namespace AKAR.WebUI
             {
                 //endpoints.MapRazorPages();
 
+                // controller ismi verildikten sonra defaultta index sayfasına gitmesi için yeni bir routing eklendi url localhost / product şeklinde gelsin diye
+
+
+                endpoints.MapControllerRoute(
+                    name: "products",
+                     pattern: "products/{category?}",
+                     defaults : new { controller ="Home",action="Index"}
+                    ); ;
+
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}"

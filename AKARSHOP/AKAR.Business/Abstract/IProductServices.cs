@@ -10,6 +10,8 @@ namespace AKAR.Business.Abstract
     public interface IProductServices : IGenericService<Product>
     {
         Product GetProductDetails(int id);
+        List<Product> GetProductByCategory(string category);
+
 
     }
 }

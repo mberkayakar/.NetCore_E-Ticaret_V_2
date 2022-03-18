@@ -34,9 +34,9 @@ namespace AKAR.DataAccess.Concrete.EntityFrameworkCore
 
 
         private static Category[] Categories = {
-            new Category(){ CategoryName= "Telefon"},
-            new Category(){ CategoryName= "Bilgisayar"},
-            new Category(){ CategoryName= "Harici Birimler"}
+            new Category(){ CategoryName= "Telefon",URL="telefon"},
+            new Category(){ CategoryName= "Bilgisayar",URL="bilgisayar"},
+            new Category(){ CategoryName= "Harici Birimler",URL="harici-birimler"}
 
         };
 

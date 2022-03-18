@@ -23,6 +23,11 @@ namespace AKAR.Business.Concrete
 
         }
 
+        public List<Product> GetProductByCategory(string category)
+        {
+            return _repo.GetProductByCategory(category);
+        }
+
         public Product GetProductDetails(int id)
         {
             return _repo.GetProductDetails(id);

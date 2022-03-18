@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AKAR.DataAccess.Migrations
 {
     [DbContext(typeof(EFContext))]
-    [Migration("20220311091127_mig1")]
-    partial class mig1
+    [Migration("20220318214814_adding-url")]
+    partial class addingurl
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -25,6 +25,9 @@ namespace AKAR.DataAccess.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("CategoryName")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("URL")
                         .HasColumnType("TEXT");
 
                     b.HasKey("CategoryId");

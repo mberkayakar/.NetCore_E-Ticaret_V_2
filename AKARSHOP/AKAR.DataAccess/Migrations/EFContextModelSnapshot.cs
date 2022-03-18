@@ -25,6 +25,9 @@ namespace AKAR.DataAccess.Migrations
                     b.Property<string>("CategoryName")
                         .HasColumnType("TEXT");
 
+                    b.Property<string>("URL")
+                        .HasColumnType("TEXT");
+
                     b.HasKey("CategoryId");
 
                     b.ToTable("Categories");
